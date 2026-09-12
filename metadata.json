@@ -1,0 +1,8 @@
+{
+  "name": "Remix DZPAY SHOP MANAGER 25",
+  "description": "نظام إدارة محلات الهواتف المحمولة والإكسسوارات والخدمات الرقمية بالدينار الجزائري",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
